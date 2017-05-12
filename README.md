@@ -1,7 +1,4 @@
 # The-Soul-of-Chyra
-Game Description: An exciting adventure/dungeon combat game where a player is challenged 
-to survive through a long dungeon to escape while defeating enemies along the way.
-
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
